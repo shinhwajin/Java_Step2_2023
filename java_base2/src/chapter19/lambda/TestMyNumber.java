@@ -1,6 +1,6 @@
 package chapter19.lambda;
 
-public class TestMyNunber {
+public class TestMyNumber {
 
 	public static void main(String[] args) {
 /*
